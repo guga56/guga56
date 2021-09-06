@@ -1,0 +1,6 @@
+C:\projetoIntegracao\ProjetoAPIEstudo\ProjetoAPIEstudo.Entidade\bin\Debug\ProjetoAPIEstudo.Entidade.dll
+C:\projetoIntegracao\ProjetoAPIEstudo\ProjetoAPIEstudo.Entidade\bin\Debug\ProjetoAPIEstudo.Entidade.pdb
+C:\projetoIntegracao\ProjetoAPIEstudo\ProjetoAPIEstudo.Entidade\obj\Debug\ProjetoAPIEstudo.Entidade.csproj.AssemblyReference.cache
+C:\projetoIntegracao\ProjetoAPIEstudo\ProjetoAPIEstudo.Entidade\obj\Debug\ProjetoAPIEstudo.Entidade.csproj.CoreCompileInputs.cache
+C:\projetoIntegracao\ProjetoAPIEstudo\ProjetoAPIEstudo.Entidade\obj\Debug\ProjetoAPIEstudo.Entidade.dll
+C:\projetoIntegracao\ProjetoAPIEstudo\ProjetoAPIEstudo.Entidade\obj\Debug\ProjetoAPIEstudo.Entidade.pdb
